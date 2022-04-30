@@ -99,11 +99,6 @@ class Fordpass(object):
     def unlock(self):
         return action(self).unlock()
 
-# print(Fordpass(username='lando@deepturn.com', password='Progress123').user)
-# print(Fordpass().status)
-# print(Fordpass().capability)
-# print(Fordpass().maintenance_schedule)
-# print(Fordpass().stop)
 
 
 
