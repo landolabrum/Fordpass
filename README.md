@@ -9,7 +9,7 @@
 4. Run demo.py: `python3 demo.py`
 ---
 ## Documentation: 
-[connectedcar](https://ianjwhite99.github.io/connected-car-python-sdk/api.html)
+- [connectedcar](https://ianjwhite99.github.io/connected-car-python-sdk/api.html)
 ---
 ## Features
 | Feature | Description |
