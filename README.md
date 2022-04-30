@@ -1,8 +1,13 @@
 # Fordpass
 ## An unofficial wrapper for Ford Motor Co. - Fordpass Connect
 ---
+### installation
+1. Clone the repo: `git clone https://github.com/LandoLabrum/Fordpass.git`
+2. Install the dependancies: `pip install -r requirements.txt`
+3. Replace the `<USERNAME>` and `<PASSWORD>` in demo.py
+4. Run demo.py: `python3 demo.py`
+---
 ### Features
-[^1]: This is the footnote.
 | Feature | Description |
 |--------|---------------|
 |user|Detailed info from User account|
@@ -26,10 +31,5 @@
 |lock|Lock the vehicle|
 |unlock|Unlock the vehicle|
 
----
-### installation
-1. Clone the repo: `git clone https://github.com/LandoLabrum/Fordpass.git`
-2. Install the dependancies: `pip install -r requirements.txt`
-3. Replace the `<USERNAME>` and `<PASSWORD>` in demo.py
-4. Run demo.py: `python3 demo.py`
+
 
