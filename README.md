@@ -1,5 +1,5 @@
 ![FordPass Connect](https://raw.githubusercontent.com/LandoLabrum/Fordpass/main/assets/ford-connect-header.png)
-### An unofficial wrapper for Ford Motor Co. - Fordpass Connect
+### An unofficial wrapper for Ford Motor Co. - Fordpass Connect™
 ---
 ## installation
 1. Clone the repo: `git clone https://github.com/LandoLabrum/Fordpass.git`
