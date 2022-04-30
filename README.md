@@ -12,6 +12,7 @@
 - [connectedcar](https://ianjwhite99.github.io/connected-car-python-sdk/api.html)
 ---
 ## Features
+`Fordpass(username=<USERNAME>, password=<PASSWORD>).status`
 | Feature | Description |
 |--------|---------------|
 |user|Detailed info from User account|
