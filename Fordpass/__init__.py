@@ -1,6 +1,6 @@
 # https://github.com/ianjwhite99/connected-car-python-sdk/blob/07e1c3a04bfb7f6377fd32ed6df0297a909bb3c4/connectedcar/vehicle.py#L6
 import connectedcar
-from support import info, action
+from Fordpass.support import info, action
 
 class Fordpass(object):
     def __init__(self, username=None, password=None):
@@ -107,7 +107,7 @@ class Fordpass(object):
     def unlock(self):
         return action(self).unlock()
 
-print(Fordpass(username='lando@deepturn.com', password='Progress123').user)
+# print(Fordpass(username='lando@deepturn.com', password='Progress123').user)
 # print(Fordpass().status)
 # print(Fordpass().capability)
 # print(Fordpass().maintenance_schedule)
