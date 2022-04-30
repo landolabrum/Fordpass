@@ -2,7 +2,7 @@
 ## An unofficial wrapper for Ford Motor Co. - Fordpass Connect
 ---
 ### Features
-Here's a sentence with a footnote. [^1]
+[^1]: This is the footnote.
 | Feature | Description |
 |--------|---------------|
 |user|Detailed info from User account|
