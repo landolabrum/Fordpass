@@ -40,10 +40,6 @@ class Fordpass(object):
         return info(self).vin()
 
     @property
-    def vin(self):
-        return info(self).vin()
-
-    @property
     def fuel(self):
         return info(self).fuel()
 
@@ -58,10 +54,6 @@ class Fordpass(object):
     @property
     def battery(self):
         return info(self).battery()
-
-    @property
-    def vin(self):
-        return info(self).vin()
 
     @property
     def capability(self):
