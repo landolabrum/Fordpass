@@ -1,3 +1,3 @@
 from Fordpass import Fordpass
 
-print(Fordpass(username='lando@deepturn.com', password='Progress123').user)
+print(Fordpass(username='<username>', password='<pw>').user)
